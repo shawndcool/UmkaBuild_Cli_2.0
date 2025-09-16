@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Збережена команда
+build_config_save.json
+
+# IDE / редактори
+.vscode/
+.idea/
+*.swp
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Віртуальне середовище (якщо є)
+venv/
+.env
