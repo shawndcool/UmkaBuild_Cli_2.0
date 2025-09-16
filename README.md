@@ -53,26 +53,18 @@ python UmkaBuild.py
 ---
 
 ## 📸 Скриншоти
-```markdown
-![screenshots_uk_1](screenshots/screenshots_uk_1.png)
-![screenshots_uk_2](screenshots/screenshots_uk_2.png)
-![screenshots_uk_3](screenshots/screenshots_uk_3.png)
-![screenshots_uk_4](screenshots/screenshots_uk_4.png)
-![screenshots_uk_5](screenshots/screenshots_uk_5.png)
-![screenshots_uk_6](screenshots/screenshots_uk_6.png)
-![screenshots_uk_7](screenshots/screenshots_uk_7.png)
-![screenshots_uk_8](screenshots/screenshots_uk_8.png)
-![screenshots_uk_9](screenshots/screenshots_uk_.9png)
-![screenshots_en_1](screenshots/screenshots_en_1.png)
-![screenshots_en_2](screenshots/screenshots_en_2.png)
-![screenshots_en_3](screenshots/screenshots_en_3.png)
-![screenshots_en_4](screenshots/screenshots_en_4.png)
-![screenshots_en_5](screenshots/screenshots_en_5.png)
-![screenshots_en_6](screenshots/screenshots_en_6.png)
-![screenshots_en_7](screenshots/screenshots_en_7.png)
-![screenshots_en_8](screenshots/screenshots_en_8.png)
-![screenshots_en_9](screenshots/screenshots_en_9.png)
-```
+| 🇺🇦 Українська | 🇬🇧 English |
+|---------------|------------|
+| ![uk_1](screenshots/screenshots_uk_1.png) | ![en_1](screenshots/screenshots_en_1.png) |
+| ![uk_2](screenshots/screenshots_uk_2.png) | ![en_2](screenshots/screenshots_en_2.png) |
+| ![uk_2](screenshots/screenshots_uk_3.png) | ![en_2](screenshots/screenshots_en_3.png) |
+| ![uk_2](screenshots/screenshots_uk_4.png) | ![en_2](screenshots/screenshots_en_4.png) |
+| ![uk_2](screenshots/screenshots_uk_5.png) | ![en_2](screenshots/screenshots_en_5.png) |
+| ![uk_2](screenshots/screenshots_uk_6.png) | ![en_2](screenshots/screenshots_en_6.png) |
+| ![uk_2](screenshots/screenshots_uk_7.png) | ![en_2](screenshots/screenshots_en_7.png) |
+| ![uk_2](screenshots/screenshots_uk_8.png) | ![en_2](screenshots/screenshots_en_8.png) |
+| ![uk_2](screenshots/screenshots_uk_9.png) | ![en_2](screenshots/screenshots_en_9.png) |
+| ...           | ...        |
 
 📜 Ліцензія
 MIT License
